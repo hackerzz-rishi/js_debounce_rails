@@ -1,0 +1,1 @@
+# js_debounce_rails
