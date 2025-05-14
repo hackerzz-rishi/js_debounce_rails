@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description   = "js_debounce_rails provides a lightweight JavaScript debounce function packaged as a Rails engine, enabling easy use in views and forms for optimizing user input handling."
   spec.homepage      = "https://github.com/hackerzz-rishi/js_debounce_rails"
   spec.license       = "MIT"
-  spec.required_ruby_version = ">= 3.1.0"
+  spec.required_ruby_version = ">= 3.0.0"
 
   spec.metadata["homepage_uri"]     = spec.homepage
   spec.metadata["source_code_uri"]  = "https://github.com/hackerzz-rishi/js_debounce_rails"
